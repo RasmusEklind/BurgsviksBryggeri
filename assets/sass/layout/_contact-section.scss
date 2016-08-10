@@ -1,0 +1,57 @@
+.no-style {
+  transition: all 0.5s ease;
+  padding: rem(4);
+  display: inline-block;
+  border-bottom: 0;
+  color: inherit;
+  border-radius: 5px 20px 5px;
+
+  &:hover {
+    background-color: white;
+    color: $color-dark-black;
+  }
+  &:active {
+    transition: all 0.1s ease;
+    border-radius: 0;
+    color: lighten($color-dark-black, 10%);
+  }
+}
+
+.section__contact {
+  background-color: $color-dark-black;
+  color: white;
+  padding-bottom: rem(20);
+  text-align: center;
+
+  ul {
+  padding: 0;
+  list-style: none;
+  }
+  li {
+  display: inline-block;
+  }
+
+  &--header {
+    display: inline-block;
+    position: relative;
+    font-size: 24px;
+    padding: rem(5);
+
+  }
+
+  &--item {
+    animation: fade-in-move-down 0.5s;
+    margin-right: 30px;
+    padding: rem(5);
+
+    &:first-child {
+      padding-left: 0;
+    }
+    &:last-child {
+      margin-right: 0;
+    }
+    &:hover {
+    }
+    &:focus {}
+  }
+}
