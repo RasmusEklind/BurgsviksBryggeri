@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="beer" unicode="&#xe800;" d="M260 115q0-10-7-17t-18-8-18 8-8 17l0 313q0 10 8 18t18 8 18-8 7-18l0-313z m105 0q0-10-8-17t-18-8-18 8-8 17l0 313q0 10 8 18t18 8 18-8 8-18l0-313z m104 0q0-10-8-17t-18-8-19 8-8 17l0 313q0 10 8 18t19 8 18-8 8-18l0-313z m234 548q75 0 128-54t54-129l0-260q0-75-54-128t-128-54l-25 0q0-65-46-111t-111-46l-365 0q-65 0-110 46t-46 111l0 677q0 43 30 73t74 31l469 0q43 0 74-31t31-73l0-52 25 0z m-599 52l0-78q0-32 23-55t56-23q45 0 67 40l9 16 19-3q17-3 34 6t23 27l6 18 232 0 0 52-469 0z m469-677l0 572-197 0q-31-51-90-51-40-52-103-52-45 0-79 26l0-495q0-21 15-37t37-16l365 0q22 0 37 16t15 37z m208 182l0 260q0 33-23 56t-55 23l-78 0 0-417 78 0q32 0 55 23t23 55z" horiz-adv-x="885" />
+
+<glyph glyph-name="facebook" unicode="&#xf09a;" d="M535 843v-147h-87q-48 0-65-20t-17-60v-106h164l-22-165h-142v-424h-171v424h-142v165h142v122q0 104 58 161t155 57q82 0 127-7z" horiz-adv-x="571.4" />
+
+<glyph glyph-name="instagram" unicode="&#xf32d;" d="M690 350q0 26-6 50l176 0 0-344q0-56-39-96t-95-40l-592 0q-56 0-95 40t-39 96l0 344 174 0q-4-32-4-50 0-106 76-183t184-77q106 0 183 77t77 183z m36 430q56 0 95-39t39-95l0-146-218 0q-78 110-212 110-138 0-212-110l-218 0 0 146q0 56 39 95t95 39l592 0z m64-166l0 72q0 24-24 24l-72 0q-24 0-24-24l0-72q0-8 7-16t17-8l72 0q24 0 24 24z m-200-264q0-66-47-113t-113-47-113 47-47 113q0 68 47 114t113 46 113-46 47-114z" horiz-adv-x="860" />
+</font>
+</defs>
+</svg>
