@@ -24,11 +24,15 @@ header {
     z-index: 2;
 
     &--header {
-      padding: rem(45);
-      background-color: rgba(30, 30, 30,1);
-      border: 5px solid $color-white-white;
+      padding: rem(20);
+      background-color: $color-white-white;
+      border: 2px solid #222;
       display: inline-block;
       margin-bottom: rem(20);
+    }
+
+    &--logo {
+      height: rem(200);
     }
 }
 
